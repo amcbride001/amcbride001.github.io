@@ -51,6 +51,7 @@ input {
 p{
 	max-width: 75vw;
 	text-align: center;
+	text-anchor: middle;
 }
 td {
 padding: 1rem;
